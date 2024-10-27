@@ -1,0 +1,2 @@
+*.pln filter=lfs diff=lfs merge=lfs -text
+*.pln,[[:space:]]*.blp filter=lfs diff=lfs merge=lfs -text
